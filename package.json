@@ -1,0 +1,28 @@
+{
+  "name": "helplytics-ai-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "dev": "node --watch index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AbdulRehmanAzizSheikh/Helplytics-AI-Server.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/AbdulRehmanAzizSheikh/Helplytics-AI-Server/issues"
+  },
+  "homepage": "https://github.com/AbdulRehmanAzizSheikh/Helplytics-AI-Server#readme",
+  "dependencies": {
+    "cors": "^2.8.6",
+    "dotenv": "^17.4.2",
+    "express": "^5.2.1"
+  }
+}
